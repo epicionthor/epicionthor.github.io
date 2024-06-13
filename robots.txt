@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epicionthor.github.io/sitemap.html
+Sitemap: https://epicionthor.github.io/app/sitemap.html
+Sitemap: https://epicionthor.github.io/assets/sitemap.html
+Sitemap: https://epicionthor.github.io/css/sitemap.html
+Sitemap: https://epicionthor.github.io/includes/sitemap.html
+Sitemap: https://epicionthor.github.io/item/sitemap.html
+Sitemap: https://epicionthor.github.io/src/sitemap.html
